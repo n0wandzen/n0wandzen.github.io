@@ -1,0 +1,34 @@
+/*!
+ * Start Bootstrap - Grayscale Bootstrap Theme (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+body,html {
+	max-width: 1080px;
+    margin: 0 auto !important;
+    float: none !important;
+}
+body,p {
+	margin:10px;
+    font-size:20px;
+}
+.intro,body,html {
+	width:90%
+}
+a:focus,a:hover,footer a,footer a:hover {
+	text-decoration:none
+}
+body {
+	font-family:'Josefin Sans',Lato,Arial,"Helvetica Neue",Helvetica,sans-serif;
+	color:#1e55a9;
+	background-color:black
+}
+li {
+    font-size:20px;
+}
+li span {
+    font-size:1080px;
+}
+h3 {
+    margin: 0
+}
